@@ -7,9 +7,9 @@
 *	Output Data:	1) antibiotics_preparing.do
 					2) SP_final_dataset_05102016_antibiotics.dta
 										
-*   Author(s):      Yu Bai, Lei Huang & Sean Sylvia
+*   Author(s):      Yu Bai
 *	Created: 		2016-05-02
-*   Last Modified: 	2016-05-31 hl
+*   Last Modified: 	2016-05-31 
 
 ------------------------------------------------------------------------------*/
 /*------------------------------------------------------------------------------
